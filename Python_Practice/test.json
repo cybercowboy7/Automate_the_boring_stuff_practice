@@ -1,0 +1,7 @@
+{
+    "Router": {
+        "hostname": "KraftRouter",
+        "model": "ISR4331",
+        "ip address": "1.1.1.1"
+    }
+}

@@ -1,0 +1,6 @@
+router1,192.168.1.1,cisco
+router2,192.168.1.2,cisco
+ASA,192.168.1.3,ciscoBLD43,1.1.1.1,Palo Alto
+BLDG 5,2.2.2.2,cisco
+jump-BLD93,3.3.3.3,cisco
+coachcrest router,4.4.4.4,cisco
