@@ -48,5 +48,11 @@ size, color, disposition = cat  # This line is the same as doing size = cat[0], 
 print(cat[0])
 print(size)
 
+# Utilizing enumerate() to enumerate a list
+
+colors = ['Red', 'Blue', 'Grey', 'Green', 'Blue']
+for index, item in enumerate(colors):
+    print('Index is', index, 'and item is', item)
+
 
 
